@@ -1,0 +1,21 @@
+body{
+    background-color: blue;
+    color:white;
+    text-align: center;
+
+}
+.imagem-principal{   
+    width: 30%
+}
+.cabeçario{
+    background-color: white;
+    color:black;
+    font-family: monospace;
+    display: flex;
+    justify-content: space-around;
+}
+ .itens{
+    list-style-type: none;
+ }
+    
+
